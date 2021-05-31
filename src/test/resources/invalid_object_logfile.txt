@@ -1,0 +1,2 @@
+{"id":"scsmbstgra", "state":"IN_PROCESS", "type":"APPLICATION_LOG", "host":"12345", "timestamp":1491377495212}
+{"id":"scsmbstgra", "state":"IN_PROCESS", "type":"APPLICATION_LOG", "host":"12345", "timestamp":1491377495217}
