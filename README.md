@@ -17,6 +17,9 @@ Build project:
 
 > mvn install
 
+Run tests: 
+> mvn test
+
 Run program:
 > java -cp target/luxoft-assignment-1.0-SNAPSHOT-jar-with-dependencies.jar Main
 
